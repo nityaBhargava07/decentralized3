@@ -174,3 +174,4 @@ contract SkillVerify {
         return holderCredentials[_holder];
     }
 }
+contract address 0x25BEC4B52866CF79Ff6F1B2852adB89Bcf453B44
