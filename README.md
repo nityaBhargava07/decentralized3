@@ -4,7 +4,7 @@
 
 SkillVerify is a blockchain-based credential verification system that enables transparent, immutable, and decentralized verification of professional skills and certifications. The platform allows authorized organizations (universities, training institutes, employers) to issue verifiable credentials as NFTs, while professionals maintain complete ownership of their skill records. Employers and recruiters can instantly verify credentials without intermediaries, eliminating resume fraud and streamlining the hiring process.
 
-## Project Vision
+## Project Visions
 
 Our vision is to create a trustless global ecosystem where professional achievements and skills are universally verifiable, portable across borders, and permanently owned by individuals. We aim to eliminate credential fraud, reduce verification costs, and empower professionals with true ownership of their career achievements. By leveraging blockchain technology, we're building a future where "trust but verify" becomes simply "verify" – making the job market more efficient and merit-based.
 
